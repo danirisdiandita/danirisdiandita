@@ -1,6 +1,6 @@
 ## Who Am I???
 
-Norma Dani Risdiandita
+Name: Norma Dani Risdiandita, You can call me Dani
 
 I have been in these roles below but Software Engineer, AI Engineer, and Indiehacker at heart, reach me at https://danirisdiandita.com 
 - CTO

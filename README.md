@@ -32,3 +32,10 @@ The maker of
 |2020–2021   |Pivoted|Infidea API Gateway                                            |I made this, but no product-market fit                                        |                   |Maker                                |React JS + Python backend using Flask                                                                       |
 |2020–2021   |Pivoted|Next Router – Route Optimisation Platform                      |I made this product – stopped due to full-time job                            |                   |Maker                                |React JS,FastAPI,C++                                                                                        |
 |2020–2021   |Pivoted|MillionRobo – Automatic Robotrading                            |I made the core functionality – stopped due to pivot                          |                   |Maker                                |Python PyQT                                                                                                 |
+
+
+
+<div align="left">
+  <img height="130px" src="https://github-readme-stats.vercel.app/api?username=danirisdiandita&show_icons=trueline_height=21&theme=dark" />
+  <img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs?username=danirisdiandita&show_icons=trueline_height=21&layout=compact&theme=dark" />
+</div>

@@ -2,6 +2,18 @@
 
 Norma Dani Risdiandita
 
+I have been in these roles below but Software Engineer, AI Engineer, and Indiehacker at heart, reach me at https://danirisdiandita.com 
+- CTO
+- CEO
+- AI Engineer
+- Data Scientist
+- Full Stack Developer
+- Mobile Apps
+- will be probably social media specialist too ✨✨✨✨✨✨✨
+- Theoretical Physicists (Condensed Matter and Particle Physics)
+- Computational Physicists (Condensed Matter Physics) 
+- Experimental Physicists (Perovskite Solar Cells)
+
 The maker of 
 
 |Year        |Status |Product / Project                                              |Contribution                                                                  |Notes / Users      |Role                                 |Tech Stacks & Skills                                                                                        |

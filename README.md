@@ -9,7 +9,7 @@ I have been in these roles below but Software Engineer, AI Engineer, and Indieha
 - Data Scientist
 - Full Stack Developer
 - Mobile Apps
-- will be probably social media specialist too ✨💅
+- will be probably social media specialist too ✨📱📷
 - Theoretical Physicists (Condensed Matter and Particle Physics)
 - Computational Physicists (Condensed Matter Physics) 
 - Experimental Physicists (Perovskite Solar Cells)

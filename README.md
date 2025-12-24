@@ -1,8 +1,8 @@
 ## Who Am I???
 
-Name: Norma Dani Risdiandita, You can call me Dani
+Name: Norma Dani Risdiandita, You can call me Dani. 
 
-I have been in these roles below but Software Engineer, AI Engineer, and Indiehacker at heart, reach me at https://danirisdiandita.com 
+I have been in these roles below but Software Engineer, AI Engineer, and Indiehacker at heart, Wanna hire? work on a project? or something you can reach me at https://danirisdiandita.com or email me at norma.risdiandita@gmail.com 
 - AI Engineer
 - Data Scientist
 - Full Stack Developer
